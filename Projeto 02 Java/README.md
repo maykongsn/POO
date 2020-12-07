@@ -2,9 +2,8 @@
 
 # O que fiz
 ```
-  Nessa semana fiz o projeto do carro e aprendi a fazer uma 
-  main interativa com os códigos feitos nas aulas. Além disso, 
-  utilizei principalmente o diagrama que está no repositório e 
+  Nessa semana fiz o projeto do carro e aprendi a fazer uma main interativa com os códigos 
+  feitos nas aulas. Além disso, utilizei principalmente o diagrama que está no repositório e 
   o exemplo no shell para entender como funciona.  
 ```
 # Com quem fiz
@@ -13,9 +12,7 @@
 ```
 # Como fez
 ```
-  Utilizando os códigos das aulas, consegui aplicá-los no meu código,
-  ou seja, criar uma main  interativa, classes e métodos. 
-  Utilizei também os requisitos, shell, diagrama do repositório.  
+  Utilizando os códigos das aulas, consegui aplicá-los no meu código, ou seja, criar uma main interativa, classes e métodos. Utilizei também os requisitos, shell, diagrama do repositório.  
 ```
 # O que aprendi e o que tenho dificuldade 
 ```
