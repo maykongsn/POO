@@ -12,7 +12,9 @@
 ```
 # Como fez
 ```
-  Utilizando os códigos das aulas, consegui aplicá-los no meu código, ou seja, criar uma main interativa, classes e métodos. Utilizei também os requisitos, shell, diagrama do repositório.  
+  Utilizando os códigos das aulas, consegui aplicá-los no meu código,
+  ou seja, criar uma main  interativa, classes e métodos. 
+  Utilizei também os requisitos, shell, diagrama do repositório.  
 ```
 # O que aprendi e o que tenho dificuldade 
 ```
