@@ -3,8 +3,8 @@
 # O que fiz
 ```
   Nessa semana fiz o projeto da motoca e aprendi principalmente
-  sobre **enum**, vendo os códigos feitos nas aulas. 
-  Além disso, vi também sobre **agregação**, **arrayList**, **this** e **other**.  
+  sobre enum, vendo os códigos feitos nas aulas. 
+  Além disso, vi também sobre agregação, arrayList, this e other.  
 ```
 # Com quem fiz
 ```
